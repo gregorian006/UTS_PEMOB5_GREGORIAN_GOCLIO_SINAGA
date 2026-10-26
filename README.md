@@ -8,7 +8,7 @@ Aplikasi kuis pilihan ganda seputar wawasan Indonesia, dibuat dengan Flutter unt
 |---|---|
 | Nama | Gregorian Goclio Sinaga |
 | NIM | 241401087 |
-| Lab | PM _(isi nomor lab)_ |
+| Lab | PM 5 |
 
 ## Informasi Aplikasi
 
