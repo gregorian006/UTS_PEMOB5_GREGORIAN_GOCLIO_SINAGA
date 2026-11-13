@@ -85,4 +85,4 @@ flutter test           # unit test QuizProvider
 | ![Beranda](beranda.png) | ![Kuis](kuis.png) | ![Hasil](hasil.png) | ![Pembahasan](pembahasan.png) |
 
 ### Mockup / Prototype
-_(tambahkan link Figma di sini)_
+https://www.figma.com/design/IcRE1vgHWs8Nfrj4vFWLTW/Kuis-Nusantara-%E2%80%94-Mockup---Prototype?node-id=0-1&t=Jio8mghtxnm7H6Qy-1
