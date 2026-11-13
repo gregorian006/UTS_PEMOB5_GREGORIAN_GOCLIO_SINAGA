@@ -82,7 +82,7 @@ flutter test           # unit test QuizProvider
 
 | Beranda | Kuis | Hasil | Pembahasan |
 |---|---|---|---|
-| ![Beranda](screenshots/home.png) | ![Kuis](screenshots/quiz.png) | ![Hasil](screenshots/result.png) | ![Pembahasan](screenshots/review.png) |
+| ![Beranda](beranda.png) | ![Kuis](kuis.png) | ![Hasil](hasil.png) | ![Pembahasan](pembahasan.png) |
 
 ### Mockup / Prototype
 _(tambahkan link Figma di sini)_
